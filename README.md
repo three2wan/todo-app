@@ -10,5 +10,5 @@ Demo: https://three2wan.github.io/todo-app/
 #Next Update
 
 1. Redesign UI
-2. Refactor code for more clean
+2. Refactor code
 3. Provide code validation
